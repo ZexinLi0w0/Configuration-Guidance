@@ -1,4 +1,4 @@
-# install caffe with python3 on ubuntu 17.04
+# install caffe with python3 on ubuntu 18.04
 
 This document is to help people struggling with installing Caffe on Python3 and Ubuntu 18.04.5 LTS.
 
