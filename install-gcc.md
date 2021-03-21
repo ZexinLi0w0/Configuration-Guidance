@@ -49,3 +49,9 @@ check the soft link
 ll /usr/lib/aarch64-linux-gnu/libstdc++.so.6
 strings /usr/lib/aarch64-linux-gnu/libstdc++.so.6 | grep GLIBC
 ```
+
+## Reference
+
+Official guide
+
+https://gcc.gnu.org/install/
